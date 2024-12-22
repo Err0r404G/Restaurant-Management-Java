@@ -1,5 +1,5 @@
 package Interface;
-
+dmfbdsk
 import Classes.*;
 import java.lang.*;
 public interface IAdmin{
